@@ -1,2 +1,3 @@
-#!/bin/bash
+#!/bin/basb
+
 echo "Holberton School is so cool!"
