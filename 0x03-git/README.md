@@ -1,1 +1,1 @@
-Source management, Git & GitHub
+# Source management, Git and GitHub
