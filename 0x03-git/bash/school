@@ -1,3 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 echo "The school is open!"
